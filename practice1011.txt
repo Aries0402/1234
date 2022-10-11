@@ -15,10 +15,5 @@ student number: 14
 
 
 
-fe80::4405:64e6:393:2ff8%17
-192.168.0.221
-
-
 student number:  #24
-
 
