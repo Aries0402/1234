@@ -1,2 +1,1 @@
-fe80::b1e7:f89f:2c9f:b34d%12
-192.168.50.92
+student number: 4
